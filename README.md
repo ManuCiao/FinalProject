@@ -1,8 +1,10 @@
-##### Swift 3, XCode 8: Track the E.T.A of a group of friends going to the same event
+##### Swift 3, XCode 8, Firebase: Track the E.T.A of a group of friends going to the same event
 Team members: [Manuela Sabatino](https://github.com/ManuCiao), [Akram Rasikh](https://github.com/AkramRasikh), [Ed Powderham](https://github.com/powderham), [Laszlo Bogacsi](https://github.com/LaszloBogacsi), [Dionysis Kastellanis](https://github.com/diok22)
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=FbujwA6J8mo" target="_blank"><img src="http://img.youtube.com/vi/FbujwA6J8mo/0.jpg" 
+alt="FinalProject - Clucth" width="300" height="250" border="10" /></a>
 
-
+https://www.youtube.com/watch?v=FbujwA6J8mo&feature=youtu.be
 
 ### M.V.P  
 
